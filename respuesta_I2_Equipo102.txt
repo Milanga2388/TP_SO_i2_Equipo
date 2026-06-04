@@ -1,3 +1,9 @@
+
+
+c- Sí. GAMMA puede actualizar su fork para incorporar los cambios que existan en ALFA, siempre que tenga acceso al repositorio y realice una sincronización (mediante pull request entre forks). De esta manera, GAMMA puede llevar su fork al mismo estado que ALFA 
+
+d- No necesariamente. Al actualizar un fork, tus cambios locales o propios no se pierden automáticamente. Git buscara combinar los cambios del repositorio actualizado con los tuyos. Si se encuntran modificaciones en las mismas partes de los archivos, pueden aparecer conflictos de fusión (merge conflicts) que deberás resolver manualmente. Solo se perderían cambios si los sobrescribes o eliminas explícitamente.
+
 e-
   1. git clone https://github.com/Milanga2388/TP_SO_i2_Equipo.git (direccion del repo)
   2. cd [nombre de la carpeta donde estan los archivos del repositorio]
