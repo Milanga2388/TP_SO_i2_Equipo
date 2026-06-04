@@ -1,1 +1,11 @@
-
+e-
+  1. git clone https://github.com/Milanga2388/TP_SO_i2_Equipo.git (direccion del repo)
+  2. git checkout -b [nombre del fork]-> para hacer un fork
+  3. git add . -> luego de realizar los cambios
+  4. git commit -m "comentario" -> en el comentario se describen los cambios realizados
+  5. git push -> si estas en el original
+  6. git push --set-upstream origin [fork] -> si estas en un fork
+  
+  Leonardo Galiano
+  Lautaro Del Vigo
+  Ignacio Puntillo
