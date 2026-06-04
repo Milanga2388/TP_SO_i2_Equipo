@@ -1,3 +1,8 @@
+a-
+Hay que agregar el repositorio original como remoto upstream y luego traer los cambios.
+
+b- 
+Sí, puede, pero no es lo habitual. ALFA tendría que agregar el fork de GAMMA como un repositorio remoto y luego traer los cambios desde allí.
 
 
 c- Sí. GAMMA puede actualizar su fork para incorporar los cambios que existan en ALFA, siempre que tenga acceso al repositorio y realice una sincronización (mediante pull request entre forks). De esta manera, GAMMA puede llevar su fork al mismo estado que ALFA 
